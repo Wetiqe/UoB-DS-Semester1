@@ -1,1 +1,6 @@
 'Question 01_titanic-correct', (0, 70)
+'Question 02_gender_by_survived-correct', (512, 70)
+'Question 03_gender_by_survived_p-correct', (1024, 70)
+'Question 04_mwc-correct', (1536, 70)
+'Question 05_mwc_p-correct', (2048, 70)
+'Question 06_classify_role-correct', (2560, 70)
